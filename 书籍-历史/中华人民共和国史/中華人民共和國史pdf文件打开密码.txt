@@ -1,8 +1,0 @@
-请解析以下base64编码以获取信息：
-5a+G56CB77yaZmZmc3pzCuS7peS4i+S4uua3t+a3huS/oeaBr++8jOivt+aXoOinhu+8mgrlr4zlvLrmsJHkuLvmlofmmI7lkozosJAK6Ieq55Sx5bmz562J5YWs5q2j5rOV5rK7CueIseWbveaVrOS4muivmuS/oeWPi+WWhA==
-
-提示：复制以上编码全文到   http://ctf.ssleye.com/base64.html   的输入框中，下面选择base64编码，点解码
-
-注1：本系列书的第一卷、第七卷、第九卷未出版（此爲  香港中文大學當代中國文化研究中心  内部問題）
-注2：本資源僅供群内成員交流學習用，請勿在未徵得管理員同意的情況下隨意外傳，否則後果自負。
-	——From   Jacob-shi
