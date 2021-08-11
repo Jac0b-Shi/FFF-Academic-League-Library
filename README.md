@@ -144,15 +144,15 @@
 | 7    | 中文 | 法律法规-中国   |                 国家法律法规数据库                  | https://flk.npc.gov.cn/                             |                                                              |
 | 8    | 中文 | 法律法规-中国   |                     中国人大网                      | http://www.npc.gov.cn/                              | 左下角有多个人大、法律法规及其草案等方面的数据库入口         |
 | 9    | 中文 | 法律法规-中国   |                     中国政府网                      | https://www.gov.cn/                                 |                                                              |
-| 10   | 综合 | 法律法规-国际法 |                       联合国                        | https://www.un.org/zh/                              | 页面底部有丰富的资讯服务，重要文件也另外列出。主要用到的是文件（https://www.un.org/zh/our-work/documents） |
+| 10   | 综合 | 法律法规-国际法 |                       联合国                        | https://www.un.org/zh/                              | 页面底部有丰富的资讯服务，重要文件也另外列出。主要用到的是正式文件系统（https://www.un.org/zh/our-work/documents） |
 | 11   | 中文 | 综合            |                       书享家                        | http://shuxiangjia.cn/                              |                                                              |
-| 12   | 中文 | 综合            |                   ePUBee电子书库                    | http://cn.epubee.com/books/                         |                                                              |
+| 12   | 中文 | 综合            |                   ePUBee电子书库                    | http://cn.epubee.com/books/                         | 已停止运营 |
 | 13   | 中文 | 综合            |                      鸠摩搜索                       | https://www.jiumodiary.com/                         |                                                              |
 | 14   | 英文 | 综合            |                      z-library                      | https://z-lib.org/                                  | 被墙，但书籍资源丰富                                         |
 | 15   | 英文 | 综合            |                  Project Gutenberg                  | https://www.gutenberg.org/                          | 古登堡计划，专门收录公版书（已经超过版权保护年限的书）       |
-| 16   | 英文 | 综合            |                      B–OK.xyz                       | [https://b-ok.as](https://b-ok.as/)                 |                                                              |
+| 16   | 英文 | 综合            |                      B–OK.xyz                       | [https://b-ok.org](https://b-ok.org/)                 | 指向 https://1lib.limited/ ，Z-library的受限版本   |
 | 17   | 英文 | 综合            |              The Open Textbook Library              | https://open.umn.edu/opentextbooks                  |                                                              |
-| 18   | 英文 | 综合            | 明尼苏达大学图书馆University of Minnesota Libraries | [https://www.lib.umn.edu](https://www.lib.umn.edu/) |                                                              |
+| 18   | 英文 | 综合            | 明尼苏达大学图书馆University of Minnesota Libraries | [https://www.lib.umn.edu](https://www.lib.umn.edu/) |  国内外很多大学都有线上的免费电子文献库，具体网站可以到网上查查看  |
 | 19   | 综合 | 综合            |              图书创世纪Library Genesis              | http://libgen.is/                                   | 顶级域名经常换                                               |
 | 20   | 综合 | 综合            |                      中国知网                       | https://www.cnki.net/                               |                                                              |
 | 21   | 综合 | 综合            |                万方数据知识服务平台                 | https://wanfangdata.com.cn/index.html               |                                                              |
@@ -184,6 +184,8 @@
 | 2    | 词典-哲学 | 斯坦福哲学百科Stanford Encyclopedia of Philosophy | https://plato.stanford.edu/      |      |
 | 3    | 软件      |                      423down                      | https://www.423down.com/         |      |
 | 4    | 软件      |                     果核博客                      | https://www.ghxi.com/            |      |
+| 5    |网络       |                     IP Adress                    |https://www.ipaddress.com/         | 查询域名IP |
+
 
 
 
