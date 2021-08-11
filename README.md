@@ -168,7 +168,7 @@
 | 2    | 经济     |              世界银行数据              | https://data.worldbank.org.cn/          |                                                              |
 | 3    | 经济     | the Observatory of Economic Complexity | https://oec.world/                      |                                                              |
 | 4    | 出版信息 |             中国版本图书馆             | https://pdc.capub.cn/                   |                                                              |
-| 5    | 地理信息 |                政治地图                | https://www.polgeonow.com/              | 各冲突地区局势图；似乎被墙                                   |
+| 5    | 地理信息 |                政治地图                | https://www.polgeonow.com/              | 各冲突地区局势图；连接不稳定                                |
 | 6    | 地理信息 |               liveuamap                | https://liveuamap.com/                  | 各冲突地区局势图                                             |
 | 7    | 地理信息 |         CIA The World Factbook         | https://www.cia.gov/the-world-factbook/ | 各国各地区基本情况简介；排版也很舒适（中国政府网站应该好好学习一下） |
 
