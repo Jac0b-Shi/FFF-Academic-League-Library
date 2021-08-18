@@ -149,7 +149,7 @@
   
   * ##### 文章
   
-    * 中国怎样走出内卷
+    * 中国怎样走出内卷？ - 知乎
 
 
 
@@ -205,8 +205,9 @@
 | 1    | 翻译      |                   DeepL 翻译器                    | https://www.deepl.com/translator |      |
 | 2    | 词典-哲学 | 斯坦福哲学百科Stanford Encyclopedia of Philosophy | https://plato.stanford.edu/      |      |
 | 3    | 软件      |                      423down                      | https://www.423down.com/         |      |
-| 4    | 软件      |                     果核博客                      | https://www.ghxi.com/            |      |
+| 4    | 软件      |                     果核博客                      | https://www.ghxi.com/            | 软件分享网站 |
 | 5    |网络       |                     IP Adress                    |https://www.ipaddress.com/         | 查询域名IP |
+| 6 |网络 | 阿里云公共DNS |https://alidns.com/ |  |
 
 
 
