@@ -1,0 +1,20 @@
+Windows x64:
+https://paperdata.china-vo.org/planetarium/wwt/ChinaVO-WWT-Setup-x64-latest.rar
+
+Windows x86:
+https://paperdata.china-vo.org/planetarium/wwt/ChinaVO-WWT-Setup-x86-latest.rar
+
+多国语言版:
+https://paperdata.china-vo.org/planetarium/wwt/WWT_ChinaVO_Setup_x64_intl.msi
+
+辅助工具（可选）:
+
+图片拼接
+https://nadc.china-vo.org/wwt/releases/ICE-1.4.4-for-64-bit-Windows.msi
+https://nadc.china-vo.org/wwt/releases/ICE-1.4.4-for-32-bit-Windows.msi
+
+WWT SDK（开发人员使用）
+https://nadc.china-vo.org/wwt/releases/WWTSDK.msi
+
+
+以上内容来自WWT中国官网：https://nadc.china-vo.org/wwt/
